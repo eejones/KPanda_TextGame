@@ -1,0 +1,1 @@
+Originally the code was only using the main routine, and didn't take advantage of the 2 character modules that were created. It is now using both of these as well as the addition of some character depth(not much), repercussions for certain actions(generally determined by chance) and attributes that contral the liklihood of success for selected actions -EEJ
