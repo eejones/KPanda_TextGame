@@ -1,4 +1,1 @@
-KPanda_TextGame
-===============
-
-First Ruby text-based game as part of learning the language
+Originally the code was only using the main routine and didn't have any parity since it was just stepping through from stage to stage no matter what. It didn't take real advantage of the 2 character modules that were created. It is now using both of these as well as the addition of some character depth(not much admittedly), repercussions for certain actions(generally determined by chance), and attributes that control the liklihood of success for selected actions -EEJ
